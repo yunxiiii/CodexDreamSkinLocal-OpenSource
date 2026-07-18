@@ -1,0 +1,13 @@
+# Generated local runtime and per-user state
+/runtime/
+/state/
+
+# Logs and diagnostics
+*.log
+*.tmp
+
+# Windows and editor metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
